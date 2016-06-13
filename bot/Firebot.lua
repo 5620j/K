@@ -326,7 +326,7 @@ function create_config( )
    "hacker"
 
     },
-    sudo_users = {105831687,65609166,68747297,85831686,176972874},--Sudo users
+    sudo_users = {189308877},--Sudo users
     parsa = {111111111},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
@@ -450,9 +450,6 @@ function create_config( )
 
 💢!bot on
 روشن کردن ربات در گروه
-
-💢!join support
-عضو شدن در گروه پشتیبانی ربات
 
 💢!social
 دریافت راهنمای تفریحی
